@@ -1,0 +1,24 @@
+
+Odisseus@ODISSEUS ~/Desktop/disciplinas (master)
+$ git push -u origin master
+Username for 'https://github.com': Ulissesmelo
+Password for 'https://Ulissesmelo@github.com':
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/Ulissesmelo/disciplinas2.gi
+t/'
+
+Odisseus@ODISSEUS ~/Desktop/disciplinas (master)
+$ git push -u origin master
+Username for 'https://github.com': Ulissesmelo
+Password for 'https://Ulissesmelo@github.com':
+Counting objects: 6, done.
+Delta compression using up to 2 threads.
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (6/6), 8.65 KiB | 0 bytes/s, done.
+Total 6 (delta 0), reused 0 (delta 0)
+To https://github.com/Ulissesmelo/disciplinas2.git
+ * [new branch]      master -> master
+Branch master set up to track remote branch master from origin.
+
+Odisseus@ODISSEUS ~/Desktop/disciplinas (master)
+$
